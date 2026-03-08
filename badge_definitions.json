@@ -2,5 +2,9 @@
     "cat": {
         "tooltip": ":3",
         "badge_url": "https://raw.githubusercontent.com/x2b1/tbadges/main/cat.png"
+    },
+    "cute": {
+        "tooltip": "cute",
+        "badge_url": "https://raw.githubusercontent.com/x2b1/tbadges/main/cute.png"
     }
 }
