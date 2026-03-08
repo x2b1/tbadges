@@ -33,6 +33,10 @@
         "1": {
             "tooltip": "silly :3",
             "badge": "https://raw.githubusercontent.com/x2b1/tbadges/main/silly.png"
+        },
+        "2": {
+            "tooltip": "cuteee :3",
+            "badge": "https://raw.githubusercontent.com/x2b1/tbadges/main/mixicute.png"
         }
     }
 }
