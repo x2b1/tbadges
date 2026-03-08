@@ -10,5 +10,9 @@
     "lol": {
         "tooltip": "League Of Legends player",
         "badge_url": "https://raw.githubusercontent.com/x2b1/tbadges/main/lol.png"
+    },
+    "silly": {
+        "tooltip": "silly :3",
+        "badge_url": "https://raw.githubusercontent.com/x2b1/tbadges/main/silly.png"
     }
 }
