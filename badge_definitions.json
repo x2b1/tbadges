@@ -18,5 +18,9 @@
     "uwu": {
         "tooltip": "cuteee :3",
         "badge_url": "https://raw.githubusercontent.com/x2b1/tbadges/main/uwu.png"
+    },
+    "acat": {
+        "tooltip": "Catgirl lover (certified)",
+        "badge_url": "https://raw.githubusercontent.com/x2b1/tbadges/main/acat.png"
     }
 }
