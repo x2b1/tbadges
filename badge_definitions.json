@@ -26,5 +26,9 @@
     "crine": {
         "tooltip": "son im crine",
         "badge_url": "https://raw.githubusercontent.com/x2b1/tbadges/main/crine.png"
+    },
+    "tired": {
+        "tooltip": "bro...",
+        "badge_url": "https://raw.githubusercontent.com/x2b1/tbadges/main/tired.png"
     }
 }
