@@ -6,5 +6,9 @@
     "cute": {
         "tooltip": "cute",
         "badge_url": "https://raw.githubusercontent.com/x2b1/tbadges/main/cute.png"
+    },
+    "lol": {
+        "tooltip": "League Of Legends player",
+        "badge_url": "https://raw.githubusercontent.com/x2b1/tbadges/main/lol.png"
     }
 }
