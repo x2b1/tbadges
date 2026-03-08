@@ -14,5 +14,9 @@
     "silly": {
         "tooltip": "silly :3",
         "badge_url": "https://raw.githubusercontent.com/x2b1/tbadges/main/silly.png"
+    },
+    "uwu": {
+        "tooltip": "cuteee :3",
+        "badge_url": "https://raw.githubusercontent.com/x2b1/tbadges/main/uwu.png"
     }
 }
