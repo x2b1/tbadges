@@ -38,5 +38,9 @@
     "mixicute": {
         "tooltip": "cuteee :3",
         "badge_url": "https://raw.githubusercontent.com/x2b1/tbadges/main/mixicute.png"
+    },
+    "rimw": {
+        "tooltip": "rimworld player :3",
+        "badge_url": "https://raw.githubusercontent.com/x2b1/tbadges/main/rimw.png"
     }
 }
