@@ -50,5 +50,9 @@
     "mixi": {
         "tooltip": "uwu",
         "badge_url": "https://raw.githubusercontent.com/x2b1/tbadges/main/mixi.png"
+    },
+    "aihra": {
+        "tooltip": "aihra",
+        "badge_url": "https://raw.githubusercontent.com/x2b1/tbadges/main/aihra.png"
     }
 }
