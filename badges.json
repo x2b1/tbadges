@@ -90,6 +90,28 @@
             "badge": "https://raw.githubusercontent.com/x2b1/tbadges/main/mixi.png"
         }
     },
+    "1467863852782850160": {
+        "0": {
+            "tooltip": "League Of Legends player",
+            "badge": "https://raw.githubusercontent.com/x2b1/tbadges/main/lol.png"
+        },
+        "1": {
+            "tooltip": "silly :3",
+            "badge": "https://raw.githubusercontent.com/x2b1/tbadges/main/silly.png"
+        },
+        "2": {
+            "tooltip": "cuteee :3",
+            "badge": "https://raw.githubusercontent.com/x2b1/tbadges/main/mixicute.png"
+        },
+        "3": {
+            "tooltip": "cool people :3 (badge only given to people i personally approve)",
+            "badge": "https://raw.githubusercontent.com/x2b1/tbadges/main/coolpeople.png"
+        },
+        "4": {
+            "tooltip": "uwu",
+            "badge": "https://raw.githubusercontent.com/x2b1/tbadges/main/mixi.png"
+        }
+    },
     "639862910381850644": {
         "0": {
             "tooltip": "rimworld player :3",
