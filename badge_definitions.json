@@ -54,5 +54,9 @@
     "aihra": {
         "tooltip": "aihra",
         "badge_url": "https://raw.githubusercontent.com/x2b1/tbadges/main/aihra.png"
+    },
+    "anime": {
+        "tooltip": "cute peak anime watcher :3",
+        "badge_url": "https://raw.githubusercontent.com/x2b1/tbadges/main/anime.png"
     }
 }
