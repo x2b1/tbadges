@@ -62,5 +62,9 @@
     "hypohypo": {
         "tooltip": "hypohypo",
         "badge_url": "https://raw.githubusercontent.com/x2b1/tbadges/main/hypohypo.png"
+    },
+    "a": {
+        "tooltip": "fuck equicord",
+        "badge_url": "https://raw.githubusercontent.com/x2b1/tbadges/main/a.png"
     }
 }
