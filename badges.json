@@ -227,6 +227,10 @@
         "1": {
             "tooltip": "cute",
             "badge": "https://raw.githubusercontent.com/x2b1/tbadges/main/cute.png"
+        },
+        "2": {
+            "tooltip": "silly :3",
+            "badge": "https://raw.githubusercontent.com/x2b1/tbadges/main/silly.png"
         }
     }
 }
