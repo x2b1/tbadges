@@ -235,6 +235,10 @@
         "3": {
             "tooltip": "League Of Legends player",
             "badge": "https://raw.githubusercontent.com/x2b1/tbadges/main/lol.png"
+        },
+        "4": {
+            "tooltip": "cuteee :3",
+            "badge": "https://raw.githubusercontent.com/x2b1/tbadges/main/uwu.png"
         }
     }
 }
