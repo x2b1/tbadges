@@ -223,6 +223,10 @@
         "0": {
             "tooltip": ":3",
             "badge": "https://raw.githubusercontent.com/x2b1/tbadges/main/cat.png"
+        },
+        "1": {
+            "tooltip": "cute",
+            "badge": "https://raw.githubusercontent.com/x2b1/tbadges/main/cute.png"
         }
     }
 }
