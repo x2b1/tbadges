@@ -66,5 +66,9 @@
     "a": {
         "tooltip": "fuck equicord",
         "badge_url": "https://raw.githubusercontent.com/x2b1/tbadges/main/a.png"
+    },
+    "nikeee": {
+        "tooltip": "nikeee",
+        "badge_url": "https://raw.githubusercontent.com/x2b1/tbadges/main/nikeee.png"
     }
 }
