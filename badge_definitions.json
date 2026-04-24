@@ -74,5 +74,9 @@
     "ft": {
         "tooltip": "fuck thieves (v9ll / .zp)",
         "badge_url": "https://raw.githubusercontent.com/x2b1/tbadges/main/ft.png"
+    },
+    "w4ze": {
+        "tooltip": "swastika",
+        "badge_url": "https://raw.githubusercontent.com/x2b1/tbadges/main/w4ze.png"
     }
 }
