@@ -78,5 +78,9 @@
     "w4ze": {
         "tooltip": "swastika",
         "badge_url": "https://raw.githubusercontent.com/x2b1/tbadges/main/w4ze.png"
+    },
+    "sofi": {
+        "tooltip": "sofii",
+        "badge_url": "https://raw.githubusercontent.com/x2b1/tbadges/main/sofi.png"
     }
 }
