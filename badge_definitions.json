@@ -82,5 +82,9 @@
     "sofi": {
         "tooltip": "sofii",
         "badge_url": "https://raw.githubusercontent.com/x2b1/tbadges/main/sofi.png"
+    },
+    "bdy": {
+        "tooltip": "est dev of the year <:sobpray:1460415413887439002>",
+        "badge_url": "https://raw.githubusercontent.com/x2b1/tbadges/main/bdy.png"
     }
 }
